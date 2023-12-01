@@ -21,6 +21,8 @@ Ayrıca, dil seçme özelliği eklemek için kendi dil yönetim sistemini oluşt
 
 Proje, kendi dil yönetim sistemini kullanarak Türkçe ve İngilizce dillerini desteklemektedir.Dil seçimi sayesinde kullanıcılar tercih ettikleri dili seçebilirler.
 
+--
+
  Güncelleme  ve değişiklik yapılacaktır.
 -Drowdown menüsü yerine iki bayrak butonu oluşturulacaktır.
 -Blog sayfası da dil desteğine entegre edilecektir
